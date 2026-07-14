@@ -25,5 +25,5 @@ I develop console applications with Java and C#. My projects focus on data struc
 
 ## Profiles
 
-- [LinkedIn](https://www.linkedin.com/in/melih-k%C3%BC%C3%A7%C3%BCk-530b65259/)
+- [LinkedIn](https://www.linkedin.com/in/melihkucukdev/)
 - [ORCID](https://orcid.org/0009-0005-2013-9661)
