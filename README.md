@@ -15,6 +15,7 @@ I develop console applications with Java and C#. My projects focus on data struc
 
 - [Logic Maze](https://github.com/melih-kck/CME1252-Logic-Maze) — Java logic game featuring expression trees, truth tables, and Karnaugh maps.
 - [Twins](https://github.com/edakirci/Twins1252) — Java maze game focused on treasure collection, scoring, and enemy movement.
+- [Squares](https://github.com/elffkse/puzzleGame) — C# puzzle game developed as a team project.
 
 ## Technologies
 
