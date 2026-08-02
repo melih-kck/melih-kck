@@ -1,51 +1,86 @@
 <div align="center">
 
-# Hi, I'm Melih Küçük 👋
+# Melih Küçük
 
-**Computer Engineering student at Dokuz Eylül University**<br />
-I build reliable, user-focused software and enjoy taking projects from an idea to a tested production release.
+**Computer Engineering student at Dokuz Eylül University**
+
+I build web products, algorithm-focused games, and object-oriented applications with an emphasis on clear architecture, testing, and usable experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melihkucukdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melihkucukdev/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2013--9661-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2013-9661)
 
 </div>
 
-## Featured project
+## Projects
 
-<p align="center">
-  <a href="https://aramizda-iki-kalp.melih-02031.chatgpt.site/">
-    <img src="https://raw.githubusercontent.com/melih-kck/daha-yakin/main/public/og.png" alt="Daha Yakın — two screens, one shared experience" width="100%" />
-  </a>
-</p>
-
-### [Daha Yakın](https://github.com/melih-kck/daha-yakin)
-
-A mobile-first, two-player web experience for long-distance couples. Two people join the same private room from separate phones and play a synchronized mix of conversation, drawing, guessing, memory, and word games.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-ff6f61?style=for-the-badge)](https://aramizda-iki-kalp.melih-02031.chatgpt.site/)
-[![Repository](https://img.shields.io/badge/Source-GitHub-102f2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melih-kck/daha-yakin)
-[![Release](https://img.shields.io/github/v/release/melih-kck/daha-yakin?style=for-the-badge&color=7f5caf)](https://github.com/melih-kck/daha-yakin/releases/latest)
-[![CI](https://img.shields.io/github/actions/workflow/status/melih-kck/daha-yakin/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/melih-kck/daha-yakin/actions/workflows/ci.yml)
-
-- Synchronized room, turn, timer, answer, and score state across two mobile browsers
-- 18 game modes with host-controlled setup, competitive scoring, jokers, reconnection, and a personalized finale
-- Privacy-focused data lifecycle, PWA support, responsive interaction design, and accessible touch targets
-- Production build, automated behavior tests, GitHub Actions, and real two-phone end-to-end validation
-
-**Stack:** TypeScript · React 19 · Vinext · Cloudflare Workers · Cloudflare D1 · Drizzle ORM · Tailwind CSS 4
-
-## Selected projects
-
-- **[Logic Maze](https://github.com/melih-kck/CME1252-Logic-Maze)** — Java logic game featuring expression trees, truth tables, and Karnaugh maps.
-- **[Race Tournament Simulator](https://github.com/melih-kck/CME1212-Race-Tournament-Simulator)** — Java tournament game built with custom singly and doubly linked lists.
-- **[Alphabet Match Game](https://github.com/melih-kck/CME1212-Alphabet-Match-Game)** — Java matching game built with custom stack and queue implementations.
-- **[Mini Excel](https://github.com/melih-kck/CME1211-Mini-Excel)** — C# console spreadsheet with arithmetic, text processing, encryption, and file operations.
-- **[Twins](https://github.com/edakirci/Twins1252)** — Team-built Java maze game focused on treasure collection, scoring, and enemy movement.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/daha-yakin">Daha Yakın</a></h3>
+      <p>Mobile-first, synchronized two-player web experience for long-distance couples, featuring 18 game modes and private rooms.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Cloudflare</code> <code>D1</code></p>
+      <p><a href="https://aramizda-iki-kalp.melih-02031.chatgpt.site/">Live demo</a> · <a href="https://github.com/melih-kck/daha-yakin">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/sakli-terapi">Saklı Terapi</a></h3>
+      <p>Privacy-focused online psychological support product prototype with real-time communication capabilities.</p>
+      <p><code>JavaScript</code> <code>React</code> <code>Supabase</code> <code>WebRTC</code></p>
+      <p><a href="https://github.com/melih-kck/sakli-terapi">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1252-Logic-Maze">Logic Maze</a></h3>
+      <p>Logic game combining maze navigation with expression trees, truth tables, and Karnaugh maps.</p>
+      <p><code>Java</code> <code>Trees</code> <code>Boolean Logic</code></p>
+      <p><a href="https://github.com/melih-kck/CME1252-Logic-Maze">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1251-Snowball-Game">Snowball Game</a></h3>
+      <p>Two-player projectile game with wind, obstacles, turn-based movement, and score management.</p>
+      <p><code>C#</code> <code>OOP</code> <code>Game Logic</code></p>
+      <p><a href="https://github.com/melih-kck/CME1251-Snowball-Game">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1212-Race-Tournament-Simulator">Race Tournament Simulator</a></h3>
+      <p>Tournament simulator implemented with custom singly and doubly linked list structures.</p>
+      <p><code>Java</code> <code>Linked Lists</code> <code>Algorithms</code></p>
+      <p><a href="https://github.com/melih-kck/CME1212-Race-Tournament-Simulator">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1212-Alphabet-Match-Game">Alphabet Match Game</a></h3>
+      <p>Matching game built around custom stack and queue implementations and score-based gameplay.</p>
+      <p><code>Java</code> <code>Stack</code> <code>Queue</code></p>
+      <p><a href="https://github.com/melih-kck/CME1212-Alphabet-Match-Game">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1211-Mini-Excel">Mini Excel</a></h3>
+      <p>Console spreadsheet with cell operations, calculations, text processing, encryption, and file persistence.</p>
+      <p><code>C#</code> <code>.NET</code> <code>File I/O</code></p>
+      <p><a href="https://github.com/melih-kck/CME1211-Mini-Excel">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/melih-kck/CME1211-Coffee-Shop-Game">Coffee Shop Game</a></h3>
+      <p>Management game covering inventory, budget, customer orders, and daily business operations.</p>
+      <p><code>C#</code> <code>OOP</code> <code>File I/O</code></p>
+      <p><a href="https://github.com/melih-kck/CME1211-Coffee-Shop-Game">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Technical focus
 
-`TypeScript` `React` `Java` `C#` `.NET` `SQL` `Cloudflare` `Git` `GitHub Actions`
+`TypeScript` `React` `JavaScript` `Java` `C#` `.NET` `SQL` `Cloudflare` `Supabase` `GitHub Actions`
 
+- Full-stack and mobile-first web development
 - Data structures, algorithms, and object-oriented design
-- Mobile-first web interfaces and state synchronization
-- Automated testing, CI, production deployment, and privacy-aware product design
+- Real-time state, automated testing, CI, and production deployment
+
+## Team experience
+
+- **[Twins](https://github.com/edakirci/Twins1252)** — Java maze game focused on treasure collection, scoring, and enemy movement.
+- **[Squares](https://github.com/elffkse/puzzleGame)** — C# puzzle game developed as a team project.
