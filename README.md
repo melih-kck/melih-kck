@@ -25,7 +25,7 @@ I build web products, algorithm-focused games, and object-oriented applications 
       <h3><a href="https://github.com/melih-kck/sakli-terapi">Saklı Terapi</a></h3>
       <p>Privacy-focused online psychological support product prototype with real-time communication capabilities.</p>
       <p><code>JavaScript</code> <code>React</code> <code>Supabase</code> <code>WebRTC</code></p>
-      <p><a href="https://github.com/melih-kck/sakli-terapi">Repository</a></p>
+      <p><a href="https://sakli-terapi.vercel.app/">Live demo</a> · <a href="https://github.com/melih-kck/sakli-terapi">Repository</a></p>
     </td>
   </tr>
   <tr>
