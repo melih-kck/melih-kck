@@ -30,20 +30,6 @@ I build web products, algorithm-focused games, and object-oriented applications 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/melih-kck/CME1252-Logic-Maze">Logic Maze</a></h3>
-      <p>Logic game combining maze navigation with expression trees, truth tables, and Karnaugh maps.</p>
-      <p><code>Java</code> <code>Trees</code> <code>Boolean Logic</code></p>
-      <p><a href="https://github.com/melih-kck/CME1252-Logic-Maze">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/melih-kck/CME1251-Snowball-Game">Snowball Game</a></h3>
-      <p>Two-player projectile game with wind, obstacles, turn-based movement, and score management.</p>
-      <p><code>C#</code> <code>OOP</code> <code>Game Logic</code></p>
-      <p><a href="https://github.com/melih-kck/CME1251-Snowball-Game">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/melih-kck/CME1212-Race-Tournament-Simulator">Race Tournament Simulator</a></h3>
       <p>Tournament simulator implemented with custom singly and doubly linked list structures.</p>
       <p><code>Java</code> <code>Linked Lists</code> <code>Algorithms</code></p>
@@ -82,5 +68,7 @@ I build web products, algorithm-focused games, and object-oriented applications 
 
 ## Team experience
 
+- **[Snowball Game](https://github.com/melih-kck/CME1251-Snowball-Game)** — Two-player C# projectile game with wind, obstacles, and turn-based gameplay.
+- **[Logic Maze](https://github.com/melih-kck/CME1252-Logic-Maze)** — Java logic game combining maze navigation, expression trees, truth tables, and Karnaugh maps.
 - **[Twins](https://github.com/edakirci/Twins1252)** — Java maze game focused on treasure collection, scoring, and enemy movement.
 - **[Squares](https://github.com/elffkse/puzzleGame)** — C# puzzle game developed as a team project.
